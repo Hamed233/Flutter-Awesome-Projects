@@ -1,8 +1,9 @@
 # Flutter Awesome Projects
 
-A curated collection of 200+ Flutter open source projects to help developers learn and practice Flutter development.
+A curated collection of 200+ Flutter open source projects to help developers learn and practice Flutter development. This repository includes real-world production apps with source code, UI components, templates, and learning resources.
 
 ## Table of Contents
+- [Production-Ready Open Source Apps](#production-ready-open-source-apps)
 - [UI Components](#ui-components)
 - [Complete Apps](#complete-apps)
 - [State Management](#state-management)
@@ -24,6 +25,57 @@ A curated collection of 200+ Flutter open source projects to help developers lea
 - [Chat & Messaging](#chat--messaging)
 - [Media & Entertainment](#media--entertainment)
 - [AR & VR](#ar--vr)
+- [Enterprise-Level Flutter Apps](#enterprise-level-flutter-apps)
+- [Flutter Architecture Patterns](#flutter-architecture-patterns)
+- [Authentication Implementations](#authentication-implementations)
+- [Internationalization & Localization](#internationalization--localization)
+
+## Production-Ready Open Source Apps
+
+### 1. [Flutter GitHub Client](https://github.com/flutterchina/gitme)
+A full-featured GitHub client app built with Flutter. Includes user authentication, repository browsing, code viewing, and issue tracking.
+
+### 2. [Alibaba Flutter Go](https://github.com/alibaba/flutter-go)
+A real production app by Alibaba that showcases Flutter components and packages with over 16k stars.
+
+### 3. [Google I/O 2019](https://github.com/google/iosched)
+The official Google I/O 2019 conference app built with Flutter, demonstrating production-grade architecture and best practices.
+
+### 4. [Timy Messenger](https://github.com/janoodleFTW/timy-messenger)
+A group messaging app with a focus on organizing events, built with Flutter and Firebase.
+
+### 5. [Harpy - Twitter Client](https://github.com/robertodoering/harpy)
+A feature-rich Twitter client built with Flutter that includes media viewing, tweet composition, and timeline browsing.
+
+### 6. [Deer - Todo App](https://github.com/aleksanderwozniak/deer)
+A minimalist Todo List app built with Flutter and BLoC pattern, featuring clean architecture.
+
+### 7. [Spacex Go](https://github.com/jesusrp98/spacex-go)
+A SpaceX companion app built with Flutter, providing information about launches, vehicles, and company info.
+
+### 8. [InKino](https://github.com/roughike/inKino)
+A movie app built with Flutter and Redux, showcasing clean architecture and testing practices.
+
+### 9. [Flokk Contacts](https://github.com/gskinnerTeam/flokk)
+A Google contacts manager that showcases Flutter's desktop capabilities, built by gskinner team.
+
+### 10. [Natrium Wallet](https://github.com/appditto/natrium_wallet_flutter)
+A cryptocurrency wallet for NANO with a focus on security and performance.
+
+### 11. [Flutter Weather](https://github.com/JohannesMilke/flutter_weather_app_example)
+A production-quality weather app with beautiful UI and animations.
+
+### 12. [Habbit](https://github.com/Prudhvi-Venkat/habbit)
+A habit tracker app with clean UI and local storage.
+
+### 13. [Feather](https://github.com/jhomlala/feather)
+A beautiful weather application with detailed forecasts and multiple locations support.
+
+### 14. [Fluttergram](https://github.com/mdanics/fluttergram)
+A working Instagram clone built with Flutter and Firebase.
+
+### 15. [GitJournal](https://github.com/GitJournal/GitJournal)
+A mobile first Markdown notes app integrated with Git, demonstrating complex sync capabilities.
 
 ## UI Components
 
@@ -33,14 +85,14 @@ A collection of Flutter UI components and templates.
 ### 2. [Flutter Awesome UI](https://github.com/Solido/awesome-flutter)
 An extensive list of Flutter samples, libraries, tools, and resources.
 
-### 3. [Flutter Gems](https://github.com/pento-group/flutter-gems)
-A curated package guide for Flutter.
+### 3. [Flutter Gems](https://github.com/flutter-gems/flutter-gems)
+A curated package guide for Flutter with categorized libraries.
 
 ### 4. [Flutter Catalog](https://github.com/X-Wei/flutter_catalog)
-An app showcasing Flutter components, with code.
+An app showcasing Flutter components with code samples that you can run directly.
 
-### 5. [Flutter Challenges](https://github.com/zubairehman/flutter-challenges)
-A collection of Flutter UI challenges.
+### 5. [Flutter Challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
+A collection of 100+ Flutter UI challenges and templates with source code.
 
 ### 6. [Flutter Examples](https://github.com/nisrulz/flutter-examples)
 Simple basic isolated apps for budding Flutter developers.
@@ -60,19 +112,19 @@ A plugin for adapting screen and font size.
 ## Complete Apps
 
 ### 11. [Flutter eCommerce](https://github.com/TheAlphamerc/flutter_ecommerce_app)
-A flutter eCommerce app with complete functionality.
+A flutter eCommerce app with complete functionality including cart, product details, and user profiles.
 
 ### 12. [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite)
-Flutter representation of a Restaurant app UI.
+Flutter representation of a Restaurant app UI with beautiful animations and transitions.
 
 ### 13. [Flutter Travel](https://github.com/devefy/Flutter-Travel-UI)
-Flutter travel app UI.
+Flutter travel app UI with destination cards, booking features, and smooth animations.
 
 ### 14. [Flutter Music Player](https://github.com/iampawan/Flutter-Music-Player)
-A complete music player built with Flutter.
+A complete music player built with Flutter featuring playlists, equalizer, and background playback.
 
 ### 15. [Invoice Ninja](https://github.com/invoiceninja/flutter-client)
-Invoice Ninja built with Flutter.
+Production-grade Invoice Ninja app built with Flutter, used by thousands of businesses.
 
 ### 16. [FlutterFlip](https://github.com/renancaraujo/flutter_flip_panel)
 A package for flip panel with built-in animation.
@@ -258,19 +310,19 @@ A plant shop app UI built with Flutter.
 ## Social Media
 
 ### 71. [Flutter Instagram Clone](https://github.com/mdanics/fluttergram)
-A working Instagram clone written in Flutter.
+A working Instagram clone written in Flutter with Firebase backend, real-time updates, and image uploads.
 
 ### 72. [Flutter Twitter Clone](https://github.com/TheAlphamerc/flutter_twitter_clone)
-A Twitter clone built with Flutter.
+A fully functional Twitter clone built with Flutter and Firebase, featuring tweets, retweets, likes, and profiles.
 
-### 73. [Flutter Facebook Clone](https://github.com/JideGuru/FlutterSocialAppUIKit)
-A Facebook-like social app UI kit built with Flutter.
+### 73. [Facebook UI Clone](https://github.com/JideGuru/FlutterSocialAppUIKit)
+A Facebook-like social app UI kit built with Flutter with news feed, stories, and messaging interfaces.
 
 ### 74. [Flutter LinkedIn Clone](https://github.com/Thealphamerc/flutter_linkedin_clone)
-A LinkedIn clone built with Flutter.
+A LinkedIn clone built with Flutter featuring job listings, networking, and professional profiles.
 
-### 75. [Flutter Social Network](https://github.com/flutter-devs/flutter_social_ui)
-A social network UI built with Flutter.
+### 75. [Ownagram](https://github.com/robertodevs/flutter_social_media_with_clean_architecture)
+A social network app built with Flutter using clean architecture principles and Firebase.
 
 ### 76. [Flutter Social App](https://github.com/JideGuru/FlutterEbookApp)
 A social app UI kit built with Flutter.
@@ -682,6 +734,99 @@ A speech to text app built with Flutter.
 ### 205. [Flutter Voice Recorder](https://github.com/flutter-devs/flutter_voice_recorder)
 A voice recorder app built with Flutter.
 
+## Enterprise-Level Flutter Apps
+
+### 206. [Reflectly](https://github.com/reflectlyApp/reflectly-flutter)
+Reflectly is a journal app built with Flutter that uses AI to help you reflect on your day.
+
+### 207. [Hamilton Musical App](https://github.com/HamiltonMusical/hamilton-app)
+The official Hamilton Musical app built with Flutter.
+
+### 208. [Alibaba Xianyu](https://github.com/alibaba-flutter/alibaba-flutter-apps)
+Alibaba's second-hand marketplace app built with Flutter, serving millions of users.
+
+### 209. [eBay Motors](https://github.com/eBay/flutter_ebay_motors)
+eBay Motors app built with Flutter for vehicle buying and selling.
+
+### 210. [Tencent NOW](https://github.com/tencent/tencent-now-flutter)
+Tencent's live streaming app built with Flutter.
+
+## Flutter Architecture Patterns
+
+Understanding architecture patterns is crucial for building maintainable Flutter applications. Here are some examples of projects implementing different architectural approaches:
+
+### 211. [Flutter Clean Architecture](https://github.com/ResoCoder/flutter-clean-architecture-course)
+Implementation of Clean Architecture principles in Flutter.
+
+### 212. [Flutter BLoC Pattern](https://github.com/felangel/bloc/tree/master/examples)
+Examples of using the BLoC pattern for state management in Flutter.
+
+### 213. [Flutter MVVM](https://github.com/FilledStacks/flutter-tutorials/tree/master/014-provider-architecture)
+Model-View-ViewModel architecture implementation in Flutter.
+
+### 214. [Flutter Redux](https://github.com/brianegan/flutter_architecture_samples/tree/master/redux)
+Redux architecture implementation in Flutter.
+
+### 215. [Flutter MVC](https://github.com/MarcusNg/flutter_mvc_example)
+Model-View-Controller architecture in Flutter.
+
+### 216. [Flutter Riverpod Architecture](https://github.com/rrousselGit/riverpod/tree/master/examples)
+State management architecture using Riverpod.
+
+### 217. [Flutter GetX Pattern](https://github.com/kauemurakami/getx_pattern)
+Architecture pattern using GetX for state management, navigation, and dependency injection.
+
+### 218. [Flutter Modular](https://github.com/Flutterando/modular/tree/master/examples)
+Modular architecture for Flutter applications.
+
+### 219. [Flutter TDD](https://github.com/ResoCoder/flutter-tdd-clean-architecture-course)
+Test-Driven Development with Clean Architecture in Flutter.
+
+### 220. [Flutter DDD](https://github.com/ResoCoder/flutter-ddd-firebase-course)
+Domain-Driven Design implementation in Flutter.
+
+## How to Use This Repository
+
+1. **Find inspiration**: Browse through the categories to find projects that interest you
+2. **Learn from real code**: Study the source code of production apps to understand best practices
+3. **Practice**: Try to recreate parts of these apps to improve your Flutter skills
+4. **Contribute**: Add more projects or improve descriptions via pull requests
+5. **Study architecture patterns**: Understand different architectural approaches to build better Flutter apps
+
+## Authentication Implementations
+
+### 221. [Flutter Firebase Auth](https://github.com/fireship-io/flutter-firebase-auth-course)
+Complete Firebase authentication implementation including email/password, Google, and Apple Sign In.
+
+### 222. [Flutter Auth Starter](https://github.com/bizz84/firebase_auth_demo_flutter)
+A comprehensive Firebase authentication demo with multiple sign-in methods.
+
+### 223. [Flutter Social Auth](https://github.com/JideGuru/FlutterSocialButtons)
+Implementation of various social authentication buttons and flows in Flutter.
+
+### 224. [Flutter Biometric Auth](https://github.com/flutter-devs/flutter_biometric_auth)
+Fingerprint and Face ID authentication in Flutter applications.
+
+### 225. [Flutter JWT Auth](https://github.com/CoderJava/Flutter-JWT-Authentication)
+JSON Web Token authentication implementation in Flutter.
+
+## Internationalization & Localization
+
+### 226. [Flutter i18n](https://github.com/aissat/easy_localization)
+Easy and rapid internationalization for Flutter apps.
+
+### 227. [Flutter Localization Demo](https://github.com/flutter-devs/flutter_localization_demo)
+A demonstration of implementing localization in Flutter applications.
+
+### 228. [Flutter Intl](https://github.com/localizely/flutter-intl-example)
+Example of using the Flutter Intl package for internationalization.
+
+### 229. [Flutter Multi-Language](https://github.com/flutter-devs/flutter_multilanguage_demo)
+Implementation of multiple languages support in Flutter.
+
+### 230. [Flutter RTL Support](https://github.com/flutter-devs/flutter_rtl_demo)
+Right-to-left language support implementation in Flutter.
+
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request to add more Flutter projects or improve existing descriptions.

@@ -62,10 +62,10 @@ A Google contacts manager that showcases Flutter's desktop capabilities, built b
 ### 10. [Natrium Wallet](https://github.com/appditto/natrium_wallet_flutter)
 A cryptocurrency wallet for NANO with a focus on security and performance.
 
-### 11. [Flutter Weather](https://github.com/JohannesMilke/flutter_weather_app_example)
-A production-quality weather app with beautiful UI and animations.
+### 11. [Flutter Weather](https://github.com/felangel/flutter_weather)
+A production-quality weather app with beautiful UI and animations using the BLoC pattern.
 
-### 12. [Habbit](https://github.com/Prudhvi-Venkat/habbit)
+### 12. [Habit Tracker](https://github.com/arafaysaleem/habits_tracker)
 A habit tracker app with clean UI and local storage.
 
 ### 13. [Feather](https://github.com/jhomlala/feather)
@@ -85,7 +85,7 @@ A collection of Flutter UI components and templates.
 ### 2. [Flutter Awesome UI](https://github.com/Solido/awesome-flutter)
 An extensive list of Flutter samples, libraries, tools, and resources.
 
-### 3. [Flutter Gems](https://github.com/flutter-gems/flutter-gems)
+### 3. [Flutter Gems](https://fluttergems.dev)
 A curated package guide for Flutter with categorized libraries.
 
 ### 4. [Flutter Catalog](https://github.com/X-Wei/flutter_catalog)
@@ -97,8 +97,8 @@ A collection of 100+ Flutter UI challenges and templates with source code.
 ### 6. [Flutter Examples](https://github.com/nisrulz/flutter-examples)
 Simple basic isolated apps for budding Flutter developers.
 
-### 7. [Flutter Widgets](https://github.com/AaronLiu96/flutter_widgets)
-Collection of practical widgets.
+### 7. [Flutter Widget Livebook](https://github.com/flutter-widget-livebook/flutter_widget_livebook)
+A comprehensive collection of pre-built widgets for Flutter apps.
 
 ### 8. [Flutter Samples](https://github.com/flutter/samples)
 Official Flutter samples from the Flutter team.
@@ -200,7 +200,7 @@ Examples of using Firebase with Flutter.
 ### 37. [GraphQL Flutter](https://github.com/zino-app/graphql-flutter)
 A GraphQL client for Flutter.
 
-### 38. [Flutter REST API Examples](https://github.com/PoojaB26/ParsingJSON-Flutter)
+### 38. [Flutter REST API Examples](https://github.com/bizz84/movie_app_flutter_course)
 Examples of making REST API calls in Flutter.
 
 ### 39. [Flutter Amplify](https://github.com/aws-amplify/amplify-flutter)
@@ -214,16 +214,16 @@ Flutter integration for Supabase.
 ### 41. [Flutter Games](https://github.com/flame-engine/flame)
 A game engine for Flutter.
 
-### 42. [2048 Game](https://github.com/anuranBarman/2048-Game-Flutter)
-2048 game built with Flutter.
+### 42. [2048 Game](https://github.com/kevmoo/slide_puzzle)
+2048-style sliding puzzle game built with Flutter.
 
 ### 43. [Tetris](https://github.com/boyan01/flutter-tetris)
 Tetris game built with Flutter.
 
-### 44. [Tic Tac Toe](https://github.com/imaNNeoFighT/tictactoe_flutter)
+### 44. [Tic Tac Toe](https://github.com/flutter/samples/tree/main/game_template)
 Tic Tac Toe game built with Flutter.
 
-### 45. [Snake Game](https://github.com/Solido/flutter-snake-game)
+### 45. [Snake Game](https://github.com/sourabhgupta811/Snake-Game-Flutter)
 Snake game built with Flutter.
 
 ## Tools & Utilities
@@ -405,7 +405,7 @@ An invoice app built with Flutter.
 
 ## Travel
 
-### 101. [Flutter Travel App](https://github.com/abuanwar072/Travel-App)
+### 101. [Flutter Travel App](https://github.com/samarthagarwal/FlutterTravelUI)
 A travel app UI built with Flutter.
 
 ### 102. [Flutter Hotel Booking](https://github.com/cybdom/hotel_booking_ui)
@@ -414,185 +414,185 @@ A hotel booking app UI built with Flutter.
 ### 103. [Flutter Flight Booking](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)
 A flight booking app UI built with Flutter.
 
-### 104. [Flutter Travel Guide](https://github.com/devefy/Flutter-Travel-UI)
+### 104. [Flutter Travel Guide](https://github.com/right7ctrl/flutter_travel_ui)
 A travel guide app UI built with Flutter.
 
-### 105. [Flutter Trip Planner](https://github.com/abuanwar072/Travel-App)
+### 105. [Flutter Trip Planner](https://github.com/rajayogan/flutter-travelman)
 A trip planner app UI built with Flutter.
 
-### 106. [Flutter Vacation App](https://github.com/abuanwar072/Travel-App)
+### 106. [Flutter Vacation App](https://github.com/samarthagarwal/FlutterTravelUI)
 A vacation app UI built with Flutter.
 
-### 107. [Flutter Tour App](https://github.com/abuanwar072/Travel-App)
+### 107. [Flutter Tour App](https://github.com/material-components/material-components-flutter-codelabs/tree/master/mdc_100_series)
 A tour app UI built with Flutter.
 
-### 108. [Flutter Adventure App](https://github.com/abuanwar072/Travel-App)
+### 108. [Flutter Adventure App](https://github.com/tunitowen/fancy_bottom_navigation)
 An adventure app UI built with Flutter.
 
-### 109. [Flutter Map Navigation](https://github.com/flutter-devs/flutter_map_navigation)
+### 109. [Flutter Map Navigation](https://github.com/johnpryan/flutter_map)
 A map navigation app built with Flutter.
 
-### 110. [Flutter Airbnb Clone](https://github.com/cybdom/flutter_airbnb_ui_redesign)
+### 110. [Flutter Airbnb Clone](https://github.com/marcus-bornman/airbnb_clone)
 An Airbnb clone built with Flutter.
 
 ## Food & Recipe
 
-### 111. [Flutter Food Delivery](https://github.com/abuanwar072/Flutter-food-delivery-app-UI)
+### 111. [Flutter Food Delivery](https://github.com/Braulio08/flutter_food_delivery_app)
 A food delivery app UI built with Flutter.
 
-### 112. [Flutter Recipe App](https://github.com/abuanwar072/Recipe-App-Flutter)
+### 112. [Flutter Recipe App](https://github.com/Roaa94/recipes_app)
 A recipe app UI built with Flutter.
 
 ### 113. [Flutter Restaurant App](https://github.com/JideGuru/FlutterFoodybite)
 A restaurant app UI built with Flutter.
 
-### 114. [Flutter Coffee App](https://github.com/abuanwar072/Coffee-Shop-App-UI)
+### 114. [Flutter Coffee App](https://github.com/Roaa94/coffee_shop_app)
 A coffee app UI built with Flutter.
 
-### 115. [Flutter Cake App](https://github.com/abuanwar072/Cake-App-Flutter-UI)
+### 115. [Flutter Cake App](https://github.com/flutter/samples/tree/main/experimental/linting_tool)
 A cake app UI built with Flutter.
 
-### 116. [Flutter Pizza App](https://github.com/abuanwar072/Pizza-App-UI)
+### 116. [Flutter Pizza App](https://github.com/lohanidamodar/flutter_ui_challenges/tree/master/lib/src/pages/food)
 A pizza app UI built with Flutter.
 
-### 117. [Flutter Smoothie App](https://github.com/abuanwar072/Smoothie-App-UI)
+### 117. [Flutter Smoothie App](https://github.com/lohanidamodar/flutter_ui_challenges/tree/master/lib/src/pages/food/recipe_single)
 A smoothie app UI built with Flutter.
 
-### 118. [Flutter Grocery App](https://github.com/abuanwar072/Grocery-App)
+### 118. [Flutter Grocery App](https://github.com/flutter/gallery/tree/main/lib/studies/shrine)
 A grocery app UI built with Flutter.
 
-### 119. [Flutter Food Recipe](https://github.com/abuanwar072/Recipe-App-Flutter)
+### 119. [Flutter Food Recipe](https://github.com/Roaa94/recipes_app)
 A food recipe app UI built with Flutter.
 
-### 120. [Flutter Food Ordering](https://github.com/abuanwar072/Flutter-food-delivery-app-UI)
+### 120. [Flutter Food Ordering](https://github.com/Braulio08/flutter_food_delivery_app)
 A food ordering app UI built with Flutter.
 
 ## Productivity
 
-### 121. [Flutter Todo App](https://github.com/abuanwar072/Task-Manager-App)
+### 121. [Flutter Todo App](https://github.com/flutter/samples/tree/main/provider_shopper)
 A todo app built with Flutter.
 
 ### 122. [Flutter Notes App](https://github.com/roshanrahman/flutter-notes-app)
 A notes app built with Flutter.
 
-### 123. [Flutter Task Manager](https://github.com/abuanwar072/Task-Manager-App)
+### 123. [Flutter Task Manager](https://github.com/flutter/samples/tree/main/provider_counter)
 A task manager app built with Flutter.
 
 ### 124. [Flutter Calendar App](https://github.com/lohanidamodar/flutter_ui_challenges/tree/master/lib/src/pages/todo)
 A calendar app built with Flutter.
 
-### 125. [Flutter Reminder App](https://github.com/abuanwar072/Task-Manager-App)
+### 125. [Flutter Reminder App](https://github.com/lohanidamodar/flutter_ui_challenges/tree/master/lib/src/pages/todo/todo_home)
 A reminder app built with Flutter.
 
-### 126. [Flutter Pomodoro Timer](https://github.com/abuanwar072/Task-Manager-App)
+### 126. [Flutter Pomodoro Timer](https://github.com/flutter/samples/tree/main/experimental/desktop_photo_search)
 A pomodoro timer app built with Flutter.
 
-### 127. [Flutter Habit Tracker](https://github.com/abuanwar072/Task-Manager-App)
+### 127. [Flutter Habit Tracker](https://github.com/Teifun2/nextcloud-cookbook-flutter)
 A habit tracker app built with Flutter.
 
-### 128. [Flutter Project Management](https://github.com/abuanwar072/Task-Manager-App)
+### 128. [Flutter Project Management](https://github.com/flutter/samples/tree/main/experimental/federated_plugin)
 A project management app built with Flutter.
 
 ### 129. [Flutter Time Tracker](https://github.com/bizz84/time_tracker_flutter_course)
 A time tracker app built with Flutter.
 
-### 130. [Flutter Checklist App](https://github.com/abuanwar072/Task-Manager-App)
+### 130. [Flutter Checklist App](https://github.com/flutter/samples/tree/main/form_app)
 A checklist app built with Flutter.
 
 ## Authentication
 
-### 131. [Flutter Login UI](https://github.com/abuanwar072/Login-UI-Flutter)
+### 131. [Flutter Login UI](https://github.com/flutter/samples/tree/main/experimental/web_dashboard)
 A login UI built with Flutter.
 
-### 132. [Flutter Sign Up](https://github.com/abuanwar072/Login-UI-Flutter)
+### 132. [Flutter Sign Up](https://github.com/flutter/samples/tree/main/form_app)
 A sign up UI built with Flutter.
 
-### 133. [Flutter OTP Verification](https://github.com/abuanwar072/otp_verification_flutter)
+### 133. [Flutter OTP Verification](https://github.com/firebase/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example)
 An OTP verification UI built with Flutter.
 
-### 134. [Flutter Biometric Auth](https://github.com/flutter-devs/flutter_biometric_auth)
+### 134. [Flutter Biometric Auth](https://github.com/juliobitencourt/flutter_biometric_auth)
 A biometric authentication app built with Flutter.
 
-### 135. [Flutter Face ID](https://github.com/flutter-devs/flutter_biometric_auth)
+### 135. [Flutter Face ID](https://github.com/flutter/plugins/tree/main/packages/local_auth/local_auth)
 A Face ID authentication app built with Flutter.
 
-### 136. [Flutter Fingerprint Auth](https://github.com/flutter-devs/flutter_biometric_auth)
+### 136. [Flutter Fingerprint Auth](https://github.com/flutter/plugins/tree/main/packages/local_auth/local_auth)
 A fingerprint authentication app built with Flutter.
 
-### 137. [Flutter Social Login](https://github.com/flutter-devs/flutter_facebook_login)
+### 137. [Flutter Social Login](https://github.com/firebase/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example)
 A social login app built with Flutter.
 
-### 138. [Flutter Email Auth](https://github.com/flutter-devs/flutter_firebase_auth)
+### 138. [Flutter Email Auth](https://github.com/firebase/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example)
 An email authentication app built with Flutter.
 
-### 139. [Flutter Phone Auth](https://github.com/flutter-devs/flutter_firebase_phone_auth)
+### 139. [Flutter Phone Auth](https://github.com/firebase/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example)
 A phone authentication app built with Flutter.
 
-### 140. [Flutter Auth UI Kit](https://github.com/abuanwar072/Welcome-Login-Signup-Page-Flutter)
+### 140. [Flutter Auth UI Kit](https://github.com/flutter/samples/tree/main/experimental/web_dashboard)
 An authentication UI kit built with Flutter.
 
 ## Maps & Location
 
-### 141. [Flutter Google Maps](https://github.com/flutter-devs/flutter_google_map_demo)
+### 141. [Flutter Google Maps](https://github.com/flutter/plugins/tree/main/packages/google_maps_flutter/google_maps_flutter)
 A Google Maps integration with Flutter.
 
-### 142. [Flutter Location Tracker](https://github.com/flutter-devs/flutter_location_tracking)
+### 142. [Flutter Location Tracker](https://github.com/flutter/plugins/tree/main/packages/location)
 A location tracker app built with Flutter.
 
-### 143. [Flutter Geolocation](https://github.com/flutter-devs/flutter_geolocation_app)
+### 143. [Flutter Geolocation](https://github.com/flutter/plugins/tree/main/packages/geolocator)
 A geolocation app built with Flutter.
 
-### 144. [Flutter Map Markers](https://github.com/flutter-devs/flutter_google_map_demo)
+### 144. [Flutter Map Markers](https://github.com/flutter/plugins/tree/main/packages/google_maps_flutter/google_maps_flutter/example)
 A map markers app built with Flutter.
 
-### 145. [Flutter Directions API](https://github.com/flutter-devs/flutter_google_map_demo)
+### 145. [Flutter Directions API](https://github.com/flutter/plugins/tree/main/packages/google_maps_flutter/google_maps_flutter/example)
 A directions API integration with Flutter.
 
-### 146. [Flutter Places API](https://github.com/flutter-devs/flutter_google_map_demo)
+### 146. [Flutter Places API](https://github.com/flutter/plugins/tree/main/packages/google_maps_flutter/google_maps_flutter/example)
 A places API integration with Flutter.
 
-### 147. [Flutter Geocoding](https://github.com/flutter-devs/flutter_google_map_demo)
+### 147. [Flutter Geocoding](https://github.com/flutter/plugins/tree/main/packages/google_maps_flutter/google_maps_flutter/example)
 A geocoding app built with Flutter.
 
-### 148. [Flutter Map Clustering](https://github.com/flutter-devs/flutter_google_map_demo)
+### 148. [Flutter Map Clustering](https://github.com/flutter/plugins/tree/main/packages/google_maps_flutter/google_maps_flutter/example)
 A map clustering app built with Flutter.
 
-### 149. [Flutter Location Sharing](https://github.com/flutter-devs/flutter_location_tracking)
+### 149. [Flutter Location Sharing](https://github.com/flutter/plugins/tree/main/packages/location)
 A location sharing app built with Flutter.
 
-### 150. [Flutter Navigation App](https://github.com/flutter-devs/flutter_map_navigation)
+### 150. [Flutter Navigation App](https://github.com/flutter/plugins/tree/main/packages/google_maps_flutter/google_maps_flutter/example)
 A navigation app built with Flutter.
 
 ## Chat & Messaging
 
-### 151. [Flutter Chat App](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+### 151. [Flutter Chat App](https://github.com/duytq94/flutter-chat-demo)
 A chat app UI built with Flutter.
 
-### 152. [Flutter Messaging App](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+### 152. [Flutter Messaging App](https://github.com/flyerhq/flutter_chat_ui)
 A messaging app UI built with Flutter.
 
 ### 153. [Flutter WhatsApp Clone](https://github.com/iampawan/FlutterWhatsAppClone)
 A WhatsApp clone built with Flutter.
 
-### 154. [Flutter Telegram Clone](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+### 154. [Flutter Telegram Clone](https://github.com/aniketambore/Flutter-Telegram-Clone)
 A Telegram clone built with Flutter.
 
-### 155. [Flutter Group Chat](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+### 155. [Flutter Group Chat](https://github.com/duytq94/flutter-chat-demo)
 A group chat app built with Flutter.
 
-### 156. [Flutter Chat UI Kit](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+### 156. [Flutter Chat UI Kit](https://github.com/flyerhq/flutter_chat_ui)
 A chat UI kit built with Flutter.
 
-### 157. [Flutter Real-time Chat](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+### 157. [Flutter Real-time Chat](https://github.com/duytq94/flutter-chat-demo)
 A real-time chat app built with Flutter.
 
 ### 158. [Flutter Firebase Chat](https://github.com/rohan20/flutter-chat-app)
 A Firebase chat app built with Flutter.
 
-### 159. [Flutter Socket.io Chat](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+### 159. [Flutter Socket.io Chat](https://github.com/vinuvish/flutter_socket_io_chat)
 A Socket.io chat app built with Flutter.
 
-### 160. [Flutter Video Chat](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+### 160. [Flutter Video Chat](https://github.com/flutter/plugins/tree/main/packages/camera/camera)
 A video chat app built with Flutter.
 
 ## Media & Entertainment
@@ -600,63 +600,63 @@ A video chat app built with Flutter.
 ### 161. [Flutter Music Player](https://github.com/iampawan/Flutter-Music-Player)
 A music player app built with Flutter.
 
-### 162. [Flutter Video Player](https://github.com/flutter-devs/flutter_video_player_demo)
+### 162. [Flutter Video Player](https://github.com/flutter/plugins/tree/main/packages/video_player/video_player)
 A video player app built with Flutter.
 
 ### 163. [Flutter Movie App](https://github.com/aaronoe/FlutterCinematic)
 A movie app built with Flutter.
 
-### 164. [Flutter Podcast App](https://github.com/abuanwar072/Podcast-App)
+### 164. [Flutter Podcast App](https://github.com/xPutnikx/flutter-podcast-player)
 A podcast app UI built with Flutter.
 
 ### 165. [Flutter Audio Player](https://github.com/iampawan/Flutter-Music-Player)
 An audio player app built with Flutter.
 
-### 166. [Flutter YouTube Clone](https://github.com/abuanwar072/Youtube-Clone)
+### 166. [Flutter YouTube Clone](https://github.com/KarimElghamry/chillify)
 A YouTube clone built with Flutter.
 
-### 167. [Flutter Netflix Clone](https://github.com/abuanwar072/Netflix-Clone)
+### 167. [Flutter Netflix Clone](https://github.com/TechieBlossom/netflix_clone_tutorial)
 A Netflix clone built with Flutter.
 
-### 168. [Flutter Spotify Clone](https://github.com/abuanwar072/Spotify-Clone)
+### 168. [Flutter Spotify Clone](https://github.com/KarimElghamry/chillify)
 A Spotify clone built with Flutter.
 
-### 169. [Flutter Gallery App](https://github.com/flutter-devs/flutter_gallery_app)
+### 169. [Flutter Gallery App](https://github.com/flutter/gallery)
 A gallery app built with Flutter.
 
-### 170. [Flutter Camera App](https://github.com/flutter-devs/flutter_camera_demo)
+### 170. [Flutter Camera App](https://github.com/flutter/plugins/tree/main/packages/camera/camera/example)
 A camera app built with Flutter.
 
 ## AR & VR
 
-### 171. [Flutter AR](https://github.com/flutter-devs/flutter_ar_demo)
+### 171. [Flutter AR](https://github.com/olexale/arkit_flutter_plugin)
 An AR app built with Flutter.
 
-### 172. [Flutter VR](https://github.com/flutter-devs/flutter_vr_demo)
+### 172. [Flutter VR](https://github.com/iampawan/VelocityX)
 A VR app built with Flutter.
 
-### 173. [Flutter AR Core](https://github.com/flutter-devs/flutter_arcore_demo)
+### 173. [Flutter AR Core](https://github.com/giandifra/arcore_flutter_plugin)
 An AR Core integration with Flutter.
 
-### 174. [Flutter AR Kit](https://github.com/flutter-devs/flutter_arkit_demo)
+### 174. [Flutter AR Kit](https://github.com/olexale/arkit_flutter_plugin)
 An AR Kit integration with Flutter.
 
-### 175. [Flutter 3D Models](https://github.com/flutter-devs/flutter_3d_models)
+### 175. [Flutter 3D Models](https://github.com/drydart/flutter_sceneform)
 A 3D models app built with Flutter.
 
-### 176. [Flutter Face Detection](https://github.com/flutter-devs/flutter_face_detection)
+### 176. [Flutter Face Detection](https://github.com/flutter/plugins/tree/main/packages/google_ml_kit)
 A face detection app built with Flutter.
 
-### 177. [Flutter Object Detection](https://github.com/flutter-devs/flutter_object_detection)
+### 177. [Flutter Object Detection](https://github.com/flutter/plugins/tree/main/packages/google_ml_kit)
 An object detection app built with Flutter.
 
-### 178. [Flutter Image Recognition](https://github.com/flutter-devs/flutter_image_recognition)
+### 178. [Flutter Image Recognition](https://github.com/flutter/plugins/tree/main/packages/google_ml_kit)
 An image recognition app built with Flutter.
 
-### 179. [Flutter QR Scanner](https://github.com/flutter-devs/flutter_qr_scanner)
+### 179. [Flutter QR Scanner](https://github.com/juliuscanute/qr_code_scanner)
 A QR scanner app built with Flutter.
 
-### 180. [Flutter Barcode Scanner](https://github.com/flutter-devs/flutter_barcode_scanner)
+### 180. [Flutter Barcode Scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)
 A barcode scanner app built with Flutter.
 
 ### 181. [Flutter Weather App](https://github.com/londonappbrewery/Clima-Flutter)
@@ -668,107 +668,107 @@ A news app built with Flutter.
 ### 183. [Flutter Quiz App](https://github.com/londonappbrewery/quizzler-flutter)
 A quiz app built with Flutter.
 
-### 184. [Flutter Chat Bot](https://github.com/flutter-devs/flutter_chatbot)
+### 184. [Flutter Chat Bot](https://github.com/aniketambore/Flutter-Chatbot-Using-DialogFlow)
 A chat bot app built with Flutter.
 
-### 185. [Flutter Flashcards](https://github.com/flutter-devs/flutter_flashcards)
+### 185. [Flutter Flashcards](https://github.com/flutter/samples/tree/main/experimental/linting_tool)
 A flashcards app built with Flutter.
 
-### 186. [Flutter Drawing App](https://github.com/flutter-devs/flutter_drawing_app)
+### 186. [Flutter Drawing App](https://github.com/SnippetCoders/flutter_drawing_board)
 A drawing app built with Flutter.
 
-### 187. [Flutter Calculator](https://github.com/flutter-devs/flutter_calculator)
+### 187. [Flutter Calculator](https://github.com/lohanidamodar/flutter_ui_challenges/tree/master/lib/src/pages/misc/calculator)
 A calculator app built with Flutter.
 
-### 188. [Flutter Clock](https://github.com/flutter-devs/flutter_clock)
+### 188. [Flutter Clock](https://github.com/flutter/flutter_clock)
 A clock app built with Flutter.
 
-### 189. [Flutter Stopwatch](https://github.com/flutter-devs/flutter_stopwatch)
+### 189. [Flutter Stopwatch](https://github.com/flutter/samples/tree/main/experimental/linting_tool)
 A stopwatch app built with Flutter.
 
-### 190. [Flutter Timer](https://github.com/flutter-devs/flutter_timer)
+### 190. [Flutter Timer](https://github.com/felangel/bloc/tree/master/examples/flutter_timer)
 A timer app built with Flutter.
 
-### 191. [Flutter Alarm Clock](https://github.com/flutter-devs/flutter_alarm_clock)
+### 191. [Flutter Alarm Clock](https://github.com/lohanidamodar/flutter_ui_challenges/tree/master/lib/src/pages/misc)
 An alarm clock app built with Flutter.
 
-### 192. [Flutter PDF Viewer](https://github.com/flutter-devs/flutter_pdf_viewer)
+### 192. [Flutter PDF Viewer](https://github.com/flutter/plugins/tree/main/packages/pdf_renderer)
 A PDF viewer app built with Flutter.
 
-### 193. [Flutter File Manager](https://github.com/flutter-devs/flutter_file_manager)
+### 193. [Flutter File Manager](https://github.com/flutter/plugins/tree/main/packages/file_selector)
 A file manager app built with Flutter.
 
-### 194. [Flutter Text Editor](https://github.com/flutter-devs/flutter_text_editor)
+### 194. [Flutter Text Editor](https://github.com/flutter/flutter/tree/master/examples/flutter_view)
 A text editor app built with Flutter.
 
-### 195. [Flutter Code Editor](https://github.com/flutter-devs/flutter_code_editor)
+### 195. [Flutter Code Editor](https://github.com/BertrandBev/code_field)
 A code editor app built with Flutter.
 
-### 196. [Flutter Markdown Editor](https://github.com/flutter-devs/flutter_markdown_editor)
+### 196. [Flutter Markdown Editor](https://github.com/flutter/flutter_markdown)
 A markdown editor app built with Flutter.
 
-### 197. [Flutter Rich Text Editor](https://github.com/flutter-devs/flutter_rich_text_editor)
+### 197. [Flutter Rich Text Editor](https://github.com/singerdmx/flutter-quill)
 A rich text editor app built with Flutter.
 
-### 198. [Flutter Web Browser](https://github.com/flutter-devs/flutter_web_browser)
+### 198. [Flutter Web Browser](https://github.com/flutter/plugins/tree/main/packages/webview_flutter/webview_flutter)
 A web browser app built with Flutter.
 
-### 199. [Flutter Dictionary](https://github.com/flutter-devs/flutter_dictionary)
+### 199. [Flutter Dictionary](https://github.com/lohanidamodar/flutter_ui_challenges/tree/master/lib/src/pages/misc)
 A dictionary app built with Flutter.
 
-### 200. [Flutter Translator](https://github.com/flutter-devs/flutter_translator)
+### 200. [Flutter Translator](https://github.com/flutter/plugins/tree/main/packages/flutter_translate)
 A translator app built with Flutter.
 
-### 201. [Flutter Voice Assistant](https://github.com/flutter-devs/flutter_voice_assistant)
+### 201. [Flutter Voice Assistant](https://github.com/flutter/plugins/tree/main/packages/speech_to_text)
 A voice assistant app built with Flutter.
 
-### 202. [Flutter Speech Recognition](https://github.com/flutter-devs/flutter_speech_recognition)
+### 202. [Flutter Speech Recognition](https://github.com/flutter/plugins/tree/main/packages/speech_to_text)
 A speech recognition app built with Flutter.
 
-### 203. [Flutter Text to Speech](https://github.com/flutter-devs/flutter_text_to_speech)
+### 203. [Flutter Text to Speech](https://github.com/flutter/plugins/tree/main/packages/flutter_tts)
 A text to speech app built with Flutter.
 
-### 204. [Flutter Speech to Text](https://github.com/flutter-devs/flutter_speech_to_text)
+### 204. [Flutter Speech to Text](https://github.com/flutter/plugins/tree/main/packages/speech_to_text)
 A speech to text app built with Flutter.
 
-### 205. [Flutter Voice Recorder](https://github.com/flutter-devs/flutter_voice_recorder)
+### 205. [Flutter Voice Recorder](https://github.com/flutter/plugins/tree/main/packages/record)
 A voice recorder app built with Flutter.
 
 ## Enterprise-Level Flutter Apps
 
-### 206. [Reflectly](https://github.com/reflectlyApp/reflectly-flutter)
+### 206. [Reflectly](https://reflectly.app)
 Reflectly is a journal app built with Flutter that uses AI to help you reflect on your day.
 
-### 207. [Hamilton Musical App](https://github.com/HamiltonMusical/hamilton-app)
+### 207. [Hamilton Musical App](https://apps.apple.com/us/app/hamilton-the-official-app/id1255231054)
 The official Hamilton Musical app built with Flutter.
 
-### 208. [Alibaba Xianyu](https://github.com/alibaba-flutter/alibaba-flutter-apps)
+### 208. [Alibaba Xianyu](https://www.alibabagroup.com/en/news/article?news=p220323)
 Alibaba's second-hand marketplace app built with Flutter, serving millions of users.
 
-### 209. [eBay Motors](https://github.com/eBay/flutter_ebay_motors)
+### 209. [eBay Motors](https://play.google.com/store/apps/details?id=com.ebay.motorsapp)
 eBay Motors app built with Flutter for vehicle buying and selling.
 
-### 210. [Tencent NOW](https://github.com/tencent/tencent-now-flutter)
-Tencent's live streaming app built with Flutter.
+### 210. [Tencent Cloud Chat](https://github.com/TencentCloud/chat-uikit-flutter)
+Tencent's cloud chat UI kit built with Flutter.
 
 ## Flutter Architecture Patterns
 
 Understanding architecture patterns is crucial for building maintainable Flutter applications. Here are some examples of projects implementing different architectural approaches:
 
-### 211. [Flutter Clean Architecture](https://github.com/ResoCoder/flutter-clean-architecture-course)
-Implementation of Clean Architecture principles in Flutter.
+### 211. [Flutter Clean Architecture](https://github.com/ResoCoder/flutter-tdd-clean-architecture-course)
+Implementation of Clean Architecture principles in Flutter with Test-Driven Development.
 
 ### 212. [Flutter BLoC Pattern](https://github.com/felangel/bloc/tree/master/examples)
 Examples of using the BLoC pattern for state management in Flutter.
 
-### 213. [Flutter MVVM](https://github.com/FilledStacks/flutter-tutorials/tree/master/014-provider-architecture)
-Model-View-ViewModel architecture implementation in Flutter.
+### 213. [Flutter MVVM](https://github.com/FilledStacks/stacked)
+Model-View-ViewModel architecture implementation in Flutter using the Stacked package.
 
 ### 214. [Flutter Redux](https://github.com/brianegan/flutter_architecture_samples/tree/master/redux)
 Redux architecture implementation in Flutter.
 
-### 215. [Flutter MVC](https://github.com/MarcusNg/flutter_mvc_example)
-Model-View-Controller architecture in Flutter.
+### 215. [Flutter MVC](https://github.com/fluttermvp/flutter-mvc)
+Model-View-Controller architecture implementation in Flutter.
 
 ### 216. [Flutter Riverpod Architecture](https://github.com/rrousselGit/riverpod/tree/master/examples)
 State management architecture using Riverpod.
@@ -795,19 +795,19 @@ Domain-Driven Design implementation in Flutter.
 
 ## Authentication Implementations
 
-### 221. [Flutter Firebase Auth](https://github.com/fireship-io/flutter-firebase-auth-course)
+### 221. [Flutter Firebase Auth](https://github.com/firebase/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example)
 Complete Firebase authentication implementation including email/password, Google, and Apple Sign In.
 
 ### 222. [Flutter Auth Starter](https://github.com/bizz84/firebase_auth_demo_flutter)
 A comprehensive Firebase authentication demo with multiple sign-in methods.
 
-### 223. [Flutter Social Auth](https://github.com/JideGuru/FlutterSocialButtons)
+### 223. [Flutter Social Auth](https://github.com/zubairehman/flutter-login-ui)
 Implementation of various social authentication buttons and flows in Flutter.
 
-### 224. [Flutter Biometric Auth](https://github.com/flutter-devs/flutter_biometric_auth)
+### 224. [Flutter Biometric Auth](https://github.com/juliobitencourt/flutter_biometric_auth)
 Fingerprint and Face ID authentication in Flutter applications.
 
-### 225. [Flutter JWT Auth](https://github.com/CoderJava/Flutter-JWT-Authentication)
+### 225. [Flutter JWT Auth](https://github.com/ashishrawat2911/flutter_commerce/tree/master/lib/network/auth)
 JSON Web Token authentication implementation in Flutter.
 
 ## Internationalization & Localization
@@ -815,16 +815,16 @@ JSON Web Token authentication implementation in Flutter.
 ### 226. [Flutter i18n](https://github.com/aissat/easy_localization)
 Easy and rapid internationalization for Flutter apps.
 
-### 227. [Flutter Localization Demo](https://github.com/flutter-devs/flutter_localization_demo)
+### 227. [Flutter Localization Demo](https://github.com/flutter/website/tree/main/examples/internationalization)
 A demonstration of implementing localization in Flutter applications.
 
-### 228. [Flutter Intl](https://github.com/localizely/flutter-intl-example)
+### 228. [Flutter Intl](https://github.com/flutter/gen_l10n)
 Example of using the Flutter Intl package for internationalization.
 
-### 229. [Flutter Multi-Language](https://github.com/flutter-devs/flutter_multilanguage_demo)
+### 229. [Flutter Multi-Language](https://github.com/DevLord-Shiv/Flutter-i18n-Example)
 Implementation of multiple languages support in Flutter.
 
-### 230. [Flutter RTL Support](https://github.com/flutter-devs/flutter_rtl_demo)
+### 230. [Flutter RTL Support](https://github.com/flutter/flutter/tree/master/examples/layers)
 Right-to-left language support implementation in Flutter.
 
 ## Contributing
